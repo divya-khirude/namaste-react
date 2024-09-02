@@ -39,3 +39,10 @@
 - - Address
 - - Contact
     \*/
+
+# React Hooks
+
+(Normal JS utility functions)
+
+- useState() - Superpowerful State Variables in React
+- useEffect()
