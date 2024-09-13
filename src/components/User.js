@@ -4,6 +4,10 @@ const User = ({ name }) => {
   const [count, setCount] = useState(0);
   const [count2] = useState(1);
 
+  useEffect(() => {
+    // api calls
+  }, []);
+
   return (
     <div className="user-card">
       <h1>Count: {count}</h1>
