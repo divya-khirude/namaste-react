@@ -74,3 +74,5 @@
 - Install Babel Dependencies
 - Configure Babel
 - Configure Parcel config file to disable default Babel transpilation
+- Jest configuration by doing `npx jest --init`
+- Install jsdom library
